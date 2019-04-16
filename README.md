@@ -12,3 +12,9 @@
 # Data Description
 
 The dataset consists of the soccer player information such as age, the club they play for and different skill sets they have.
+
+
+
+# The link to the blog post is as follows:
+
+https://medium.com/@madhavvyas_10553/fifa-2019-player-information-44f3d5875d47
